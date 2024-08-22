@@ -1,4 +1,5 @@
 🎬 CineMatch-Personalized-Movie-Recommender-System
+
 Welcome to the Movie Recommender System, a Python and Machine Learning project that enhances your movie-watching experience by delivering personalized movie recommendations. This system intelligently combines Content-Based Filtering using TF-IDF (Term Frequency-Inverse Document Frequency) and Collaborative Filtering powered by the K-Nearest Neighbors (KNN) algorithm.
 
 🌟 Features
